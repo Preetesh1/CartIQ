@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data files (VERY IMPORTANT)
+backend/data/raw/
+*.csv
+*.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
