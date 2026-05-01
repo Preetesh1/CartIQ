@@ -131,7 +131,7 @@ cartiq/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cartiq.git
+git clone https://github.com/Preetesh1/cartiq.git
 cd cartiq
 ```
 
@@ -274,8 +274,8 @@ From `notebooks/eda.ipynb` on the Amazon Electronics dataset:
 
 ## 🚀 Live Demo
 
-> **[cartiq.vercel.app](https://cartiq.vercel.app)** ← Frontend  
-> **[cartiq-api.onrender.com](https://cartiq-api.onrender.com/api/health)** ← API
+> **[cartiq.vercel.app]()** ← Frontend  
+> **[cartiq-api.onrender.com]()** ← API
 
 *Cold start on Render's free tier may take 30s to spin up on first request.*
 
