@@ -14,4 +14,4 @@ backend/data/raw/
 .ipynb_checkpoints/
 
 # Mac
-.DS_Store
+.DS_Storebackend/models/*.pkl
