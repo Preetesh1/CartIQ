@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <p align="center">
-  <img src="./assets/banner.png" alt="CartIQ Banner" width="450"/>
+  <img src="./assets/cartiq.png" alt="CartIQ Banner" width="450"/>
 </p>
 
 # 🛒 CartIQ – AI-Powered Shopping Recommendation Engine
